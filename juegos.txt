@@ -1,2 +1,4 @@
-uno
+UNO
+monopoly
+risk
 poker
