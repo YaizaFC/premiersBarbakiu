@@ -2,3 +2,5 @@ UNO
 monopoly
 risk
 poker
+Catan
+Cluedo
